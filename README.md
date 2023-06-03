@@ -1,6 +1,6 @@
 # Data Science Portfolio - Michael Kneale (46502289)
 
-This repository contains the three sections of the portfolio I have done for COMP2200. It also contains this readme file, as well as the sets of data used for each part of the portfolio, which can be viewed in their entirety in the "files" folder found in the repository.
+This repository contains the three sections of the portfolio I have done for COMP2200 at Macquarie University. It also contains the sets of data used for each part of the portfolio, which can be viewed in their entirety in the "files" folder found in the repository.
 
 The project was done solely by me, although I did use lecture and reading material, as well as other online help, in order to understand how to code certain things.
 
